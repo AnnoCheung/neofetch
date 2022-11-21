@@ -1,1 +1,3 @@
+echo 'alias neofetch="neofetch --ascii rick_ascii.txt"' >> .zshrc
+
 alias neofetch="neofetch --ascii rick_ascii.txt"
